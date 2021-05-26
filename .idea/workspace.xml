@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="061d9942-a7e3-46ef-97a5-84a0ca4f6d24" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Users\victoryjin\sdk\go1.16.3" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1t4E6wZrM5xa5QzIZa1KMgFsOYp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+  </component>
+  <component name="RunManager" selected="Go Test.Test in two-sum_1_test.go">
+    <configuration name="go build two-sum_1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="lc_go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/leetcode/editor/cn/two-sum_1.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test in two-sum_1_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="lc_go" />
+      <working_directory value="$PROJECT_DIR$/leetcode/editor/cn" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/leetcode/editor/cn/two-sum_1_test.go" />
+      <pattern value="^\QTest\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.Test in two-sum_1_test.go" />
+        <item itemvalue="Go Build.go build two-sum_1.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: 创建leetcode环境" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 创建leetcode环境" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1119" y="395" key="FileChooserDialogImpl" timestamp="1622019809245">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1119" y="395" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1622019809245" />
+    <state width="563" height="386" key="GridCell.Tab.0.bottom" timestamp="1622021451566">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="563" height="386" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1622021451566" />
+    <state width="563" height="386" key="GridCell.Tab.0.center" timestamp="1622021451566">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="563" height="386" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1622021451566" />
+    <state width="563" height="386" key="GridCell.Tab.0.left" timestamp="1622021451566">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="563" height="386" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1622021451566" />
+    <state width="563" height="386" key="GridCell.Tab.0.right" timestamp="1622021451566">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="563" height="386" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1622021451566" />
+    <state x="589" y="333" width="1456" height="883" key="SettingsEditor" timestamp="1622021213423">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="589" y="333" width="1456" height="883" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1622021213423" />
+    <state x="772" y="368" key="Vcs.Push.Dialog.v2" timestamp="1622020036120">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="772" y="368" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1622020036120" />
+  </component>
+</project>
