@@ -10,12 +10,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="061d9942-a7e3-46ef-97a5-84a0ca4f6d24" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/twoSum_1_test.go" afterDir="false" />
+    <list default="true" id="061d9942-a7e3-46ef-97a5-84a0ca4f6d24" name="Default Changelist" comment="feat: 创建测试模板">
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/longest-common-prefix_14_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/valid-parentheses_20_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/all.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +28,17 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="C:\Users\victoryjin\sdk\go1.16.3" />
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
@@ -43,69 +50,81 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable..is.expanded" value="false" />
+    <property name="configurable.GoLibrariesConfigurable.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="leetcode.id" />
   </component>
-  <component name="RunManager" selected="Go Test.Test_twoSum in twoSum_1_test.go">
-    <configuration name="go build two-sum_1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\code\go_learning\lc_go\leetcode\editor\cn" />
+      <recent name="C:\code\go_learning\lc_go\leetcode\editor\cn\listnode" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build addTwoNumbers_2.go">
+    <configuration name="go build addTwoNumbers_2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="lc_go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/leetcode/editor/cn/two-sum_1.go" />
+      <package value="github.com/DonghuiJin/lc_go" />
       <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/leetcode/editor/cn/listnode/addTwoNumbers_2.go" />
       <method v="2" />
     </configuration>
-    <configuration name="Test in two-sum_1_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="Test_twoSum in github.com/DonghuiJin/lc_go/leetcode/editor/cn" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="lc_go" />
       <working_directory value="$PROJECT_DIR$/leetcode/editor/cn" />
-      <framework value="gotest" />
-      <kind value="FILE" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/DonghuiJin/lc_go/leetcode/editor/cn" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/leetcode/editor/cn/two-sum_1_test.go" />
-      <pattern value="^\QTest\E$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTest_twoSum\E$" />
       <method v="2" />
     </configuration>
     <configuration name="Test_twoSum in two-sum_1_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="lc_go" />
       <working_directory value="$PROJECT_DIR$/leetcode/editor/cn" />
-      <framework value="gotest" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/leetcode/editor/cn/two-sum_1_test.go" />
+      <framework value="gotest" />
       <pattern value="^\QTest_twoSum\E$" />
       <method v="2" />
     </configuration>
     <configuration name="Test_twoSum in twoSum_1_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="lc_go" />
       <working_directory value="$PROJECT_DIR$/leetcode/editor/cn" />
-      <framework value="gotest" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/leetcode/editor/cn/twoSum_1_test.go" />
+      <framework value="gotest" />
       <pattern value="^\QTest_twoSum\E$" />
       <method v="2" />
     </configuration>
     <configuration name="Test_twoSum in twoSum_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="lc_go" />
       <working_directory value="$PROJECT_DIR$/leetcode/editor/cn" />
-      <framework value="gotest" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/leetcode/editor/cn/twoSum_test.go" />
+      <framework value="gotest" />
       <pattern value="^\QTest_twoSum\E$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build addTwoNumbers_2.go" />
+        <item itemvalue="Go Test.Test_twoSum in github.com/DonghuiJin/lc_go/leetcode/editor/cn" />
         <item itemvalue="Go Test.Test_twoSum in twoSum_1_test.go" />
         <item itemvalue="Go Test.Test_twoSum in twoSum_test.go" />
         <item itemvalue="Go Test.Test_twoSum in two-sum_1_test.go" />
-        <item itemvalue="Go Test.Test in two-sum_1_test.go" />
-        <item itemvalue="Go Build.go build two-sum_1.go" />
       </list>
     </recent_temporary>
   </component>
@@ -123,6 +142,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: 创建leetcode环境" />
@@ -131,39 +151,5 @@
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1580" y="497" key="#Go_Modules" timestamp="1622079634655">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1580" y="497" key="#Go_Modules/0.0.2560.1400@0.0.2560.1400" timestamp="1622079634655" />
-    <state x="1119" y="395" key="FileChooserDialogImpl" timestamp="1622019809245">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1119" y="395" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1622019809245" />
-    <state width="652" height="502" key="GridCell.Tab.0.bottom" timestamp="1622080770987">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="652" height="502" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1622080770987" />
-    <state width="652" height="502" key="GridCell.Tab.0.center" timestamp="1622080770983">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="652" height="502" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1622080770983" />
-    <state width="652" height="502" key="GridCell.Tab.0.left" timestamp="1622080770983">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="652" height="502" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1622080770983" />
-    <state width="652" height="502" key="GridCell.Tab.0.right" timestamp="1622080770983">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="652" height="502" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1622080770983" />
-    <state x="589" y="333" width="1456" height="883" key="SettingsEditor" timestamp="1622079676574">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="589" y="333" width="1456" height="883" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1622079676574" />
-    <state x="772" y="368" key="Vcs.Push.Dialog.v2" timestamp="1622028531563">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="772" y="368" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1622028531563" />
   </component>
 </project>

@@ -3,6 +3,22 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/../go_leetcode/leetcode/editor/cn/add-two-numbers_2.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../go_leetcode/leetcode/editor/cn/add-two-numbers_2.go" />
+              <option name="questionId" value="2" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../go_leetcode/leetcode/editor/cn/problem_2_add-two-numbers.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../go_leetcode/leetcode/editor/cn/problem_2_add-two-numbers.go" />
+              <option name="questionId" value="2" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/1.go">
           <value>
             <LeetcodeEditor>
@@ -19,10 +35,34 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/AddTwoNumbers_2.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/AddTwoNumbers_2.go" />
+              <option name="questionId" value="2" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/add-two-numbers_2.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/add-two-numbers_2.go" />
+              <option name="questionId" value="2" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/add-two-numbers_2_test.go">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/add-two-numbers_2_test.go" />
+              <option name="questionId" value="2" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/addTwoNumbers_2.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/addTwoNumbers_2.go" />
               <option name="questionId" value="2" />
             </LeetcodeEditor>
           </value>
